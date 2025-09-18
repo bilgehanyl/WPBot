@@ -1,0 +1,14 @@
+Hello! 👋
+
+This is an example message sent using WPBot.
+
+Features:
+✅ Bulk messaging
+✅ Turkish number support
+✅ GUI and CLI interfaces
+✅ Number normalization
+
+Thank you for using WPBot!
+
+Best regards,
+WPBot Team

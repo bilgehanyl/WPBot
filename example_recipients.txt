@@ -1,0 +1,32 @@
+# Example recipients file for WPBot
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+
+# Turkish numbers in various formats (will be normalized to E.164)
++905551234567
+905559876543
+05551234567
+5551234567
+
+# US numbers in various formats (select "United States" in country dropdown)
++1234567890
+1234567890
+
+# UK numbers in various formats (select "United Kingdom" in country dropdown)
++44123456789
+44123456789
+07123456789
+
+# German numbers in various formats (select "Germany" in country dropdown)
++49123456789
+49123456789
+0123456789
+
+# International numbers (already in E.164 format - works with any country)
++1234567890
++44123456789
++49123456789
+
+# Invalid entries (will be skipped)
+1234567890
+invalid_number
